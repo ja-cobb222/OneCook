@@ -43,6 +43,7 @@ android/app/build/
 android/local.properties
 android/.idea/
 android/captures/
+firebaseConfig.ts
 
 # Mac system files
 .DS_Store
